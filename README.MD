@@ -6,8 +6,8 @@ Este projeto implementa um classificador de sentimentos (positivo/negativo e emo
 
 Henrique Maia 
 
-Joao Menna
+Joao Pedro I.
 
-Joao Izidoro 
+Joao Menna
 
 Ricardo Gabriel 
