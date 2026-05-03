@@ -4,6 +4,9 @@ Este projeto implementa um classificador de sentimentos (positivo/negativo e emo
 
 ## Alunos:
 Joao Menna
+
 Joao Izidoro 
+
 Ricardo Gabriel 
+
 Henrique Maia 
