@@ -13,3 +13,11 @@ Joao Menna
 Ricardo Gabriel 
 
 Nicolas Borges
+
+## Como Executar:
+- **Instalar NLTK:**
+´´pip install nltk´´
+
+- **Executar os Arquivos:**
+´´python pdf/main.py´´
+´´python slide19/main.py´´
